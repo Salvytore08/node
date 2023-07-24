@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 99vw;
+    height: 97.6vh;
+    background-color: #A5BDF8;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0
+}
+
+div{
+    font-family: arial;
+    color: black;
+    padding: 5%;
+    background-color: #CDDAF9;
+    border-radius: 20px;
+    display: flex;
+    width: 60%;
+    height: 50%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10%;
+    text-align: center;
+}
+
+hr{
+    width: 150%;
+    border: 1px solid black;
+}
